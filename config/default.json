@@ -1,0 +1,9 @@
+{
+    "db" : "mongodb+srv://raghudara:raghudara@myprofile.xt9ns.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "secretofmyprofiletoimprovemyself",
+    "cloudify": {
+        "cloud_name": "raghudara",
+        "api_key": "359672465567843",
+        "api_secret": "BbmTIQcLbcO6hJq_zd7aAZu629Y"
+    }
+}
